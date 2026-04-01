@@ -4,13 +4,7 @@
 
 ### Software Engineer · MSCS (Dec 2025) · Java Backend · Cloud · Distributed Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7A5CFF&center=true&vCenter=true&width=750&lines=Java+%2B+Spring+Boot+Backend+Engineer;Building+Scalable+Cloud+Systems+on+AWS+and+GCP;Experienced+in+Distributed+Systems+%26+Microservices;AI+%2B+Backend+Integration+for+Real+World+Applications" />
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NUPUR0307&label=Profile%20Views&color=7a5cff&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/NUPUR0307?style=for-the-badge&color=7a5cff" />
-  <img src="https://img.shields.io/github/stars/NUPUR0307?style=for-the-badge&color=7a5cff" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=Java+%2B+Spring+Boot+Backend+Engineer;Building+Scalable+Cloud+Systems+on+AWS+and+GCP;Experienced+in+Distributed+Systems+%26+Microservices;AI+%2B+Backend+Integration+for+Real+World+Applications" />
 
 <p align="center">
   <a href="https://linkedin.com/in/nupur3">
@@ -31,7 +25,7 @@ Backend-focused Software Engineer with experience building **scalable APIs, dist
 
 **Master’s in Computer Science from SUNY Binghamton (Dec 2025)** with a focus on **distributed systems, backend architecture, and performance optimization**.
 
-Experienced with **high-traffic systems (100K+ requests)**, **real-time applications**, and **AI-integrated workflows**.  [oai_citation:0‡NupurMore.pdf](sediment://file_00000000fe0471f7aa5329bae75a81b2)
+Experienced with **high-traffic systems (100K+ requests)**, **real-time applications**, and **AI-integrated workflows**.
 
 ---
 
@@ -86,7 +80,7 @@ Experienced with **high-traffic systems (100K+ requests)**, **real-time applicat
 
 - Reduced REST over-fetching by **40%**  
 - Reduced database scans by **80%** using NLP-based query optimization  
-- Improved authentication efficiency by **15%**  [oai_citation:1‡NupurMore.pdf](sediment://file_00000000fe0471f7aa5329bae75a81b2)  
+- Improved authentication efficiency by **15%**
 
 ---
 
@@ -95,7 +89,7 @@ Experienced with **high-traffic systems (100K+ requests)**, **real-time applicat
 
 - Deployed chatbot supporting **1,000+ users**  
 - Reduced file load times by **45%** using S3 + CloudFront  
-- Improved reliability by **20%** with auto scaling  [oai_citation:2‡NupurMore.pdf](sediment://file_00000000fe0471f7aa5329bae75a81b2)  
+- Improved reliability by **20%** with auto scaling  
 
 ---
 
@@ -104,7 +98,7 @@ Experienced with **high-traffic systems (100K+ requests)**, **real-time applicat
 
 - Reduced latency by **35%**  
 - Designed concurrent multi-user system with session isolation  
-- Implemented JWT-based authentication  [oai_citation:3‡NupurMore.pdf](sediment://file_00000000fe0471f7aa5329bae75a81b2)  
+- Implemented JWT-based authentication  
 
 ---
 
@@ -113,7 +107,7 @@ Experienced with **high-traffic systems (100K+ requests)**, **real-time applicat
 
 - Improved frame stability by **45%**  
 - Built modular architecture using MVC & SOLID  
-- Implemented BFS pathfinding optimization  [oai_citation:4‡NupurMore.pdf](sediment://file_00000000fe0471f7aa5329bae75a81b2)  
+- Implemented BFS pathfinding optimization  
 
 ---
 
@@ -123,7 +117,7 @@ Experienced with **high-traffic systems (100K+ requests)**, **real-time applicat
 - Improved OCR accuracy by **35%**  
 - Increased system reliability by **30%** using Kafka  
 - Reduced latency by **20%**  
-- Built infrastructure supporting **10K+ daily users**  [oai_citation:5‡NupurMore.pdf](sediment://file_00000000fe0471f7aa5329bae75a81b2)  
+- Built infrastructure supporting **10K+ daily users**  
 
 ---
 
@@ -131,7 +125,7 @@ Experienced with **high-traffic systems (100K+ requests)**, **real-time applicat
 - Reduced API response time by **25%**  
 - Improved DB performance by **15%**  
 - Reduced latency by **18%** using Redis caching  
-- Achieved **95% test coverage**  [oai_citation:6‡NupurMore.pdf](sediment://file_00000000fe0471f7aa5329bae75a81b2)  
+- Achieved **95% test coverage**
 
 ---
 
